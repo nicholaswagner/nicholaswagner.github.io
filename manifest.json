@@ -1,6 +1,6 @@
 {
-  "short_name": "XX/",
-  "name": "nicholaswagner.dev",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "rgba(255, 255, 255,1)",
-  "background_color": "rgba(37, 38, 37, 1)"
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
 }
